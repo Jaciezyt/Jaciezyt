@@ -1,8 +1,8 @@
 ### Hi there, I'm Jacie ZYT 👋
 
-✨ You can call me ZYT or Jacie (I was formerly known as Jason/JasonZYT)  
-🌱 A senior high school student & junior OIer  
-⚡ Former developer of Minecraft BDS, currently focusing on Web dev(full-stack)  
+✨ You can call me ZYT or Jacie  
+🌱 A college student & former OIer  
+⚡ Former developer of Minecraft BDS, currently focusing on full-stack dev  
 ❤️ I like 👨‍💻coding and 📷photography  
 🏳️ No position: Just wanna be free, say what I want, do what I want, and be who I want  
 👀 More about me -> https://zzzz.yt/about
@@ -65,17 +65,17 @@
 root@jaciezyt:~$ zyt repo list --table
  |============= REPO =============|============================ DESC ============================|
  | <a href="https://github.com/ddf8196/FakePlayer"        >ddf8196/FakePlayer</a>             | Fake player client for Minecraft: Bedrock Edition       Java |
- | <a href="https://github.com/Jasonzyt/password-fabric"  >Jasonzyt/password-fabric</a>       | Password and whitelist plugin for fabric servers        Java |
- | <a href="https://github.com/Jasonzyt/telefabric"       >Jasonzyt/telefabric</a>            | Mod bridging Fabric servers to Telegram                 Java |
- | <a href="https://github.com/Jasonzyt/genshin-stats"    >Jasonzyt/genshin-stats</a>         | Genshin statistics card generator                     Python |
- | <a href="https://github.com/Jasonzyt/cloud-map-spider" >Jasonzyt/cloud-map-spider</a>      | Spider cloud maps from NSMC.org.cn and etc            Python |
- | <a href="https://github.com/Jasonzyt/campu"            >Jasonzyt/campu</a>                 | My first Nuxt project & blog -> <a href="https://zzzz.yt/">zzzz.yt</a>                  Vue |
- | <a href="https://github.com/Jasonzyt/kana-loop"        >Jasonzyt/kana-loop</a>             | Japanese Kana Loop Exercise! -> <a href="https://kana.jasonz.yt/">kana.zzzz.yt</a>             Vue |
- | <a href="https://github.com/Jasonzyt/gallery"          >Jasonzyt/gallery</a>               | Best site to present your photos! -> <a href="https://gallery.zzzz.yt">gallery.zzzz.yt</a>     Vue |
+ | <a href="https://github.com/Jaciezyt/password-fabric"  >Jaciezyt/password-fabric</a>       | Password and whitelist plugin for fabric servers        Java |
+ | <a href="https://github.com/Jaciezyt/telefabric"       >Jaciezyt/telefabric</a>            | Mod bridging Fabric servers to Telegram                 Java |
+ | <a href="https://github.com/Jaciezyt/genshin-stats"    >Jaciezyt/genshin-stats</a>         | Genshin statistics card generator                     Python |
+ | <a href="https://github.com/Jaciezyt/cloud-map-spider" >Jaciezyt/cloud-map-spider</a>      | Spider cloud maps from NSMC.org.cn and etc            Python |
+ | <a href="https://github.com/Jaciezyt/campu"            >Jaciezyt/campu</a>                 | My first Nuxt project & blog -> <a href="https://zzzz.yt/">zzzz.yt</a>                  Vue |
+ | <a href="https://github.com/Jaciezyt/kana-loop"        >Jaciezyt/kana-loop</a>             | Japanese Kana Loop Exercise! -> <a href="https://kana.jasonz.yt/">kana.zzzz.yt</a>             Vue |
+ | <a href="https://github.com/Jaciezyt/gallery"          >Jaciezyt/gallery</a>               | Best site to present your photos! -> <a href="https://gallery.zzzz.yt">gallery.zzzz.yt</a>     Vue |
  | <a href="https://github.com/LiteLDev/LeviLamina"       >LiteLDev/LeviLamina</a>            | Lightweight, modular and versatile mod loader for MCBE   C++ |
  | <a href="https://github.com/Majjcom/ncmpp"             >Majjcom/ncmpp</a>                  | Fastest, multi-threaded Netease .ncm file cracker        C++ |
  |================================|==============================================================|
-root@jasonzyt:~$ rm -rf /*▍
+root@jaciezyt:~$ rm -rf /*▍
 </pre>
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
